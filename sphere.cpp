@@ -4,9 +4,7 @@
 // Created on: September 2019
 // This program can calulate the volume of a sphere
 
-#define _USE_MATH_DEFINES
-
-#include <math.h>
+#include <cmath>
 #include <iostream>
 #include <iomanip>
 
